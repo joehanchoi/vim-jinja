@@ -9,4 +9,4 @@ if exists("b:did_indent")
 endif
 
 " Use HTML formatting rules.
-runtime! indent/html.vim
+" runtime! indent/html.vim
